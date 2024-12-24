@@ -1,6 +1,6 @@
 # Lecture Slides on Eye Tracking and Visual Attention
 
-This repository contains a collection of teaching slides on **eye tracking** and its application to **visual attention** studies. These materials are designed for **undergraduate** and **postgraduate level courses**, as well as for **researchers** and **students** in the fields of **psychology**, **neuroscience**, **marketing**, and **social science**. They are suitable for both **teaching** and **self-study**.
+This repository contains a collection of teaching slides on **eye tracking** and its application to **visual attention** studies. These materials are designed for **undergraduate** and **postgraduate level courses**, as well as for **researchers** and **students** in the fields of **economics**, **psychology**, **neuroscience**, **marketing**, and **social science**. They are suitable for both **teaching** and **self-study**.
 
 ## Contents
 1. **Lecture: Basics of Eye Tracking**  
